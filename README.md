@@ -16,9 +16,6 @@ Olá! Eu sou o Luis, um entusiasta de desenvolvimento de software apaixonado por
 ### Onde me encontrar
 - 📫 [E-mail](luishenriquemf23@hotmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/luis-henrique-ferreira-649623128/)
-- 🌐 [Blog](em breve)
-- 🐦 [Twitter](https://twitter.com/hexcharlie)
-- 📷 [Instagram](https://www.instagram.com/hexcharlie/)
 
 ## Vamos nos conectar! 🌟
 Estou sempre em busca de novas conexões e oportunidades para colaborar. Se você também é um entusiasta da tecnologia, um aprendiz ávido ou apenas quer bater um papo, não hesite em entrar em contato comigo. Juntos, podemos construir algo incrível!
