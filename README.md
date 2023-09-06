@@ -2,7 +2,7 @@
 
 ## Sobre mim
 - 🎂 Idade: 27 anos
-- 📚 Atualmente estudando o Bootcamp Java Fullstack da Generation Brasil
+- 📚 Atualmente estudando o Bootcamp Fullstack da Generation Brasil
 - 🎓 Também sou estudante de Desenvolvimento de Sistemas na Etec
 - 🌱 Apaixonado por aprender e criar coisas incríveis
 
