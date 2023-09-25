@@ -6,7 +6,6 @@
 - 🎓 Também sou estudante de Desenvolvimento de Sistemas na Etec
 - 🌱 Apaixonado por aprender e criar coisas incríveis
 
-## Sobre mim
 Olá! Eu sou o Luis, um entusiasta de desenvolvimento de software apaixonado por aprender e criar coisas incríveis. Atualmente, estou mergulhando no mundo do desenvolvimento fullstack Java por meio do Bootcamp da Generation Brasil. Além disso, estou aprimorando minhas habilidades estudando Desenvolvimento de Sistemas na Etec.
 
 ### O que estou fazendo
