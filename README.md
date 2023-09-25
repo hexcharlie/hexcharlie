@@ -12,9 +12,11 @@ Olá! Eu sou o Luis, um entusiasta de desenvolvimento de software apaixonado por
 - 💻 Aprendendo as nuances do desenvolvimento Java e Fullstack
 - 🚀 Explorando novas tecnologias e ferramentas para aprimorar minhas habilidades
 
-<div>
+<div align="center">
+<div style="display: inline_block">
   <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hexcharlie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hexcharlie&layout=compact&langs_count=16&theme=dark"/>
+</div>
 </div>
 <br>
 <div  align="left"> 
@@ -28,6 +30,7 @@ Olá! Eu sou o Luis, um entusiasta de desenvolvimento de software apaixonado por
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" height="60" width="40" alt="docker-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  </div>
    </div>
 <br>
 
