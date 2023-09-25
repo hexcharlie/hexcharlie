@@ -12,7 +12,7 @@ Olá! Eu sou o Luis, um entusiasta de desenvolvimento de software apaixonado por
 - 💻 Aprendendo as nuances do desenvolvimento Java e Fullstack
 - 🚀 Explorando novas tecnologias e ferramentas para aprimorar minhas habilidades
 
-- <div>
+<div>
   <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hexcharlie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hexcharlie&layout=compact&langs_count=16&theme=dark"/>
 </div>
@@ -20,10 +20,11 @@ Olá! Eu sou o Luis, um entusiasta de desenvolvimento de software apaixonado por
 <div  align="left"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+    <img align="center" height="30" width="40" alt="csharp-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="javascript-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     <img align="center" height="30" width="40" alt="mysql-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
     <img align="center" height="30" width="40" alt="spring-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
     <img align="center" height="60" width="40" alt="docker-icon" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
