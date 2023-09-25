@@ -15,7 +15,7 @@ Olá! Eu sou o Luis, um entusiasta de desenvolvimento de software apaixonado por
 <div align="center">
 <div style="display: inline_block">
   <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=hexcharlie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hexcharlie&layout=compact&langs_count=16&theme=dark"/>
+  <img  height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hexcharlie&layout=compact&langs_count=16&theme=dark"/>
 </div>
 </div>
 <br>
